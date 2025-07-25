@@ -1,38 +1,38 @@
-# Virtual Painting App
+# Virtual Pong Game
 
-A hands-free digital painting application that allows users to draw in the air using hand gestures, with real-time visualization on live webcam feed through computer vision technology.
+A hands-free classic Pong gaming experience that allows users to control game paddles using their index finger movements through computer vision technology.
 
 ## 🎯 Overview
 
-Virtual Painting App is an innovative application that transforms how users create digital art. Instead of using traditional drawing tools, users can simply use natural hand movements to draw and paint in the air, with their creations appearing in real-time on the webcam display.
+Virtual Pong Game is an innovative recreation of the classic Pong arcade game that transforms how players interact with the game. Instead of using traditional keyboard controls or joysticks, players can control their paddles using natural index finger movements tracked through their webcam.
 
 ## ✨ Features
 
-### 🎨 Drawing Tools
-- **Air Drawing**: Draw freely in the air with hand gestures reflected on live webcam
-- **Color Selection**: Choose between red and pink brush colors
-- **Shape Options**: Draw circles and lines with hand movements
-- **Brush Thickness**: Adjustable brush thickness for varied line weights
-- **Real-time Feedback**: Instant visual feedback showing drawing strokes
+### 🎮 Gesture-Based Paddle Control
+- **Index Finger Tracking**: Real-time tracking of index finger position for paddle control
+- **Smooth Movement**: Fluid paddle movement that follows finger motion
+- **Responsive Controls**: Low-latency finger-to-paddle movement for competitive gameplay
+- **Natural Interaction**: Intuitive hand movements translate directly to game actions
 
-### ⭕ Circle Drawing & Filling
-- **Two-Hand Circle**: Create circles using both hands for precise shape control
-- **Fill Options**: Three filling modes available after circle creation:
-  - Fill quarter of the circle
-  - Fill half of the circle  
-  - Fill entire circle with blue color
-- **Portion Selection**: Choose specific portions to fill for quarter and half options
-- **Gesture-Based Filling**: Perform specific gestures to activate filling operations
+### 🏓 Classic Pong Gameplay
+- **Traditional Rules**: Classic Pong game mechanics with modern gesture controls
+- **Ball Physics**: Realistic ball movement and collision detection
+- **Paddle Interaction**: Accurate ball-paddle collision for authentic gameplay
+- **Score Tracking**: Real-time score display during matches
 
-### 📏 Line Drawing
-- **Straight Lines**: Draw precise lines using hand gestures
-- **Variable Thickness**: Adjustable line thickness for different artistic effects
-- **Smooth Rendering**: Clean line rendering with anti-aliasing
+### 🎯 Game Features
+- **Real-time Response**: Instant paddle movement based on finger position
+- **Visual Feedback**: Clear game interface with paddle and ball visualization
+- **Competitive Play**: Engaging gameplay with gesture-based control system
+- **Webcam Integration**: Seamless integration with computer camera for finger tracking
 
-### 🔄 Additional Features
-- **Undo Function**: Undo button to reverse recent drawing actions
-- **Live Preview**: Real-time drawing preview on webcam feed
-- **Gesture Recognition**: Advanced hand tracking for accurate drawing control
+### 🕹️ Interactive Gaming
+- **Hands-Free Experience**: Complete game control without physical input devices
+- **Motion Gaming**: Revolutionary gaming experience using body movements
+- **Accessible Controls**: Easy-to-learn finger-based control system
+- **Immersive Gameplay**: Enhanced gaming experience through gesture interaction
+
+## 📥 Installation
 
 ### Setup
 1. Clone the repository:
